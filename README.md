@@ -8,7 +8,7 @@ E-Commerce Clone is a static website that replicates the design and layout of th
 
 - Home page layout similar to Amazon
 - Product listings and categories
-- Responsive design for different screen sizes
+  
 
 ## Technologies Used
 
